@@ -1,10 +1,3 @@
-## Hello World! I'am Antonio Victor
-
-- 🖥️ Currently studying web development with javascript
-- 🚀 Aiming to become a excellent full-stack programmer
-- 💡 I believe that with good ideas and willpower it is possible to transform the world
-- ❤️ Coding its my passion
-
 ## About
 
 Desenvolvedor frontend apaixonado pelo mundo da programação e de desenvolvimento de software.
@@ -14,6 +7,18 @@ Minha história começou no ano de 2020, quando me vi em um curso que detestava 
 Atualmente, já estou atuando no mercado de trabalho como Desenvolvedor Front-end Júnior, utilizando ferramentas como React, TypeScript e JavaScript. Porém, estou me preparando, através dos estudos, para começar a atuar como desenvolvedor Fullstack e adicionar o NodeJs e conhecimentos sobre Back-end na minha bagagem enquanto desenvolvedor.
 
 Além disso, me considero uma pessoa calma, tranquila e que se mistura fácil. Possuo facilidade em me comunicar e trabalhar em equipe. Sempre me comprometo a fazer bem feito e de tentar contribuir positivamente para o projeto.
+
+## Contact Me
+ <br>  
+  <div> 
+    <a href = "mailto:antoniovictor1604@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/antonio-victor-oliveira-borges-4a2852228" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a> 
+  </div>
+<br>
 
 ## Resume
 
@@ -169,18 +174,6 @@ Além disso, me considero uma pessoa calma, tranquila e que se mistura fácil. P
 </div>
 <br>
   
-## Contact Me
- <br>  
- <div> 
-  <a href = "mailto:antoniovictor1604@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/antonio-victor-oliveira-borges-4a2852228" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</div>
-<br>
-
  <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br>
