@@ -13,20 +13,22 @@
 <br>  
   
 ## Main Stacks
-<div style="display: flex; gap: 8px; align-items: center; flex-wrap:wrap;">
-  <img alt="Antonio-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Antonio-ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="Antonio-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Antonio-redux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img src="./assets/jest.svg" alt="jest logo">
-  <img src="./assets/vitest.svg" alt="vitest logo">
-  <img src="./assets/tailwind.png" alt="tailwindcss" width="60" />
-  <img src="./assets/styled-components.svg" width="60" height="50" alt="styled components" />
-  <img src="./assets/webpack.svg" alt="webpack" width="60" height="50">
-  <img src="./assets/firebase.svg" height="50" width="60" alt="firebase">
-  <img alt="Antonio-SASS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img alt="Antonio-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Antonio-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap:wrap;">
+  <img alt="Antonio-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
+  <img alt="Antonio-ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript">
+  <img alt="Antonio-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
+  <img alt="Antonio-redux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux">
+  <img src="./assets/jest.svg" alt="Jest logo" title="Jest" width="55">
+  <img src="./assets/vitest.svg" alt="Vitest logo" title="Vitest" width="60">
+  <img src="./assets/tailwind.png" alt="tailwindcss" width="60" title="Tailwind"/>
+  <img src="./assets/styled-components.svg" width="60" height="50" alt="styled components" title="Styled Components"/>
+  <img src="./assets/material-ui.svg" width="50" height="60" alt="material ui" title="Material UI">
+  <img src="./assets/bootstrap.svg" width="50" height="50" alt="bootstrap 5" title="Bootstrap 5">
+  <img src="./assets/webpack.svg" alt="webpack" title="Webpack 5" width="50" height="60">
+  <img src="./assets/firebase.svg" height="50" width="35" alt="firebase" title="Firebase">
+  <img alt="Antonio-SASS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="Sass">
+  <img alt="Antonio-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
+  <img alt="Antonio-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
 </div>
 
 <br>
@@ -34,11 +36,11 @@
 ## Learning
 
 <div style="display: flex; gap: 8px; align-items: center; flex-wrap:wrap;"><br>
-  <img src="./assets/nextjs.svg" alt="next logo">
-  <img alt="Antonio-node" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img alt="Antonio-mongo" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img alt="Antonio-mysql" height="50" width="60" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
-  <img alt="Antonio-express" height="50" width="60" src="https://icongr.am/devicon/express-original.svg?size=128&color=83cd29">
+  <img src="./assets/nextjs.svg" alt="next logo" width="50" title="NextJs">
+  <img alt="Antonio-node" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJs">
+  <img alt="Antonio-mongo" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB">
+  <img alt="Antonio-mysql" height="50" width="60" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" title="MySql">
+  <img alt="Antonio-express" height="50" width="60" src="https://icongr.am/devicon/express-original.svg?size=128&color=83cd29" title="Express">
 </div>
 <br>
   
