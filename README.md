@@ -5,6 +5,18 @@
 - 💡 I believe that with good ideas and willpower it is possible to transform the world
 - ❤️ Coding its my passion
 
+## About
+
+Desenvolvedor frontend apaixonado pelo mundo da programação e de desenvolvimento de software.
+
+Minha história começou no ano de 2020, quando me vi em um curso que detestava e que pra mim não tinha a possibilidade de crescimento. Foi então que comecei a estudar, por conta própria, programação, e assim conheci o mundo do Desenvolvimento Web. E desde então venho me aperfeiçoando nesse universo.
+
+Atualmente, já estou atuando no mercado de trabalho como Desenvolvedor Front-end Júnior, utilizando ferramentas como React, TypeScript e JavaScript. Porém, estou me preparando, através dos estudos, para começar a atuar como desenvolvedor Fullstack e adicionar o NodeJs e conhecimentos sobre Back-end na minha bagagem enquanto desenvolvedor.
+
+Além disso, me considero uma pessoa calma, tranquila e que se mistura fácil. Possuo facilidade em me comunicar e trabalhar em equipe. Sempre me comprometo a fazer bem feito e de tentar contribuir positivamente para o projeto.
+
+## Resume
+
 <div align="center">
   <a href="https://github.com/DevVictor19">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevVictor19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
