@@ -13,7 +13,7 @@
 <br>  
   
 ## Main Stacks
-<div style="display: flex; gap: 10px; align-items: center; flex-wrap:wrap;">
+<div style="display: flex; gap: 16px; align-items: center; flex-wrap:wrap;">
   <img alt="Antonio-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
   <img alt="Antonio-ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript">
   <img alt="Antonio-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
