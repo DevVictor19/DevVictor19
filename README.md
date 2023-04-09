@@ -1,3 +1,10 @@
+## Hello World! I'am Antonio Victor
+
+- 🖥️ Currently studying web development with javascript
+- 🚀 Aiming to become a excellent full-stack programmer
+- 💡 I believe that with good ideas and willpower it is possible to transform the world
+- ❤️ Coding its my passion
+
 ## About
 
 Desenvolvedor frontend apaixonado pelo mundo da programação e de desenvolvimento de software.
