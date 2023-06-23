@@ -7,7 +7,7 @@
 
 ## About
 
-Desenvolvedor frontend apaixonado pelo mundo da programação e de desenvolvimento de software.
+Desenvolvedor Fullstack apaixonado pelo mundo da programação e de desenvolvimento de software.
 
 Minha história começou no ano de 2020, quando me vi em um curso que detestava e que pra mim não tinha a possibilidade de crescimento. Foi então que comecei a estudar, por conta própria, programação, e assim conheci o mundo do Desenvolvimento Web. E desde então venho me aperfeiçoando nesse universo.
 
