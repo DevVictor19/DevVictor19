@@ -139,7 +139,7 @@ Além disso, me considero uma pessoa calma, tranquila e que se mistura fácil. P
 
 ## Backend
 
-<div style="display: flex; gap: 8px; align-items: center; flex-wrap:wrap;">
+<div>
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
     alt="Antonio-node" 
