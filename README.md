@@ -16,6 +16,7 @@ Atualmente, já estou atuando no mercado de trabalho como Desenvolvedor Front-en
 Além disso, me considero uma pessoa calma, tranquila e que se mistura fácil. Possuo facilidade em me comunicar e trabalhar em equipe. Sempre me comprometo a fazer bem feito e de tentar contribuir positivamente para o projeto.
 
 ## Contact Me
+
  <br>  
   <div> 
     <a href = "mailto:antoniovictor1604@gmail.com">
@@ -34,10 +35,11 @@ Além disso, me considero uma pessoa calma, tranquila e que se mistura fácil. P
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevVictor19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevVictor19&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<br>  
-  
-## Main Stacks
-<div style="display: flex; gap: 16px; align-items: center; flex-wrap:wrap;">
+<br>
+
+## Main Languages
+
+<div>
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Antonio-Js" 
     height="50" 
@@ -51,6 +53,12 @@ Além disso, me considero uma pessoa calma, tranquila e que se mistura fácil. P
     width="60"  
     title="TypeScript"
   />
+</div>
+
+<br>
+  
+## Frontend
+<div>
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
     alt="Antonio-React" 
@@ -59,23 +67,17 @@ Além disso, me considero uma pessoa calma, tranquila e que se mistura fácil. P
     title="React"
   />
   <img 
+    src="./assets/nextjs.svg" 
+    alt="next logo" 
+    width="50" 
+    title="NextJs"
+  />
+  <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
     alt="Antonio-redux" 
     height="50" 
     width="60"  
     title="Redux"
-  />
-  <img 
-    src="./assets/jest.svg" 
-    alt="Jest logo" 
-    width="55"
-    title="Jest" 
-  />
-  <img 
-    src="./assets/vitest.svg" 
-    alt="Vitest logo"  
-    width="60" 
-    title="Vitest"
   />
   <img 
     src="./assets/tailwind.png" 
@@ -110,12 +112,6 @@ Além disso, me considero uma pessoa calma, tranquila e que se mistura fácil. P
     width="50" 
     height="60"
   />
-  <img 
-    src="./assets/firebase.svg" 
-    height="50" width="35" 
-    alt="firebase" 
-    title="Firebase"
-  />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"  
     alt="Antonio-SASS" 
@@ -141,21 +137,29 @@ Além disso, me considero uma pessoa calma, tranquila e que se mistura fácil. P
 
 <br>
 
-## Learning
+## Backend
 
 <div style="display: flex; gap: 8px; align-items: center; flex-wrap:wrap;">
-  <img 
-    src="./assets/nextjs.svg" 
-    alt="next logo" 
-    width="50" 
-    title="NextJs"
-  />
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
     alt="Antonio-node" 
     height="50" 
     width="60" 
     title="NodeJs"
+  />
+  <img 
+    src="https://icongr.am/devicon/express-original.svg?size=128&color=83cd29" 
+    alt="Antonio-express" 
+    height="50" 
+    width="60" 
+    title="Express"
+  />
+  <img 
+    src="./assets/typeorm.svg" 
+    alt="Antonio-express" 
+    height="50" 
+    width="100" 
+    title="TypeORM"
   />
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
@@ -165,6 +169,12 @@ Além disso, me considero uma pessoa calma, tranquila e que se mistura fácil. P
     title="MongoDB"
   />
   <img 
+    src="./assets/firebase.svg" 
+    height="50" width="35" 
+    alt="firebase" 
+    title="Firebase"
+  />
+  <img 
     src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" 
     alt="Antonio-mysql" 
     height="50" 
@@ -172,13 +182,32 @@ Além disso, me considero uma pessoa calma, tranquila e que se mistura fácil. P
     title="MySql"
   />
   <img 
-    src="https://icongr.am/devicon/express-original.svg?size=128&color=83cd29" 
-    alt="Antonio-express" 
+    src="./assets/postgres.svg" 
+    alt="Antonio-postgres" 
     height="50" 
     width="60" 
-    title="Express"
+    title="PostgresSQL"
   />
 </div>
+<br>
+
+## Tests
+
+<div>
+<img 
+    src="./assets/jest.svg" 
+    alt="Jest logo" 
+    width="55"
+    title="Jest" 
+  />
+  <img 
+    src="./assets/vitest.svg" 
+    alt="Vitest logo"  
+    width="60" 
+    title="Vitest"
+  />
+</div>
+
 <br>
   
  <div align="center">
