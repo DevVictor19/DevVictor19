@@ -22,7 +22,7 @@ Além disso, me considero uma pessoa calma, tranquila e que se mistura fácil. P
     <a href = "mailto:antoniovictor1604@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
-    <a href="https://www.linkedin.com/in/antonio-victor-oliveira-borges-4a2852228" target="_blank">
+    <a href="https://www.linkedin.com/in/antonio-victor-oliveira-4a2852228" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
   </div>
