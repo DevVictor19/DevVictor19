@@ -12,7 +12,7 @@ uma pessoa extremamente fácil de se ter na equipe. Me misturo fácil e sempre g
 
 Estou aberto para oportunidades na modalidade home office. 
 
-Caso não seja exatamente a stack que voçê procura em um desenvolvedor, saiba que, com certeza eu posso aprender o que você precisa, afinal não é a primeira vez
+Caso não seja exatamente a stack que você procura em um desenvolvedor, saiba que, com certeza eu posso aprender o que você precisa, afinal não é a primeira vez
 que preciso aprender algo novo ;)
 
 ## Contato
