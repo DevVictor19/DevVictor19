@@ -1,21 +1,21 @@
-## Hello World! I'am Antonio Victor
+## Sobre
 
-- 🖥️ Currently studying web development with javascript
-- 🚀 Aiming to become a excellent full-stack programmer
-- 💡 I believe that with good ideas and willpower it is possible to transform the world
-- ❤️ Coding its my passion
+Desenvolvedor de software fullstack apaixonado por Engenharia e Arquitetura de Software. Cursando o 4° Semestre de Sistemas de Informação.
 
-## About
+Nem sempre fui da área de TI, minha história começou quando tranquei uma faculdade de Direito em 2020 e começei a estudar programação web por conta própria.
+Desde então venho me aperfeiçoando nesse universo e ficando cada vez mais empolgado em estudar os tópicos pertinentes da nossa área. 
+Eu simplesmente amo a minha profissão.
 
-Desenvolvedor Fullstack apaixonado pelo mundo da programação e de desenvolvimento de software.
+Atualmente, já atuo como desenvolvedor fullstack, tanto em empresas, quanto em freelances, utilizando ferramentas como NextJS, React, NodeJS, Git e PostgreSQL. 
+Porém, minhas habilidades não se restringem a isso. Possuo raciocínio lógico e analítico para resolver os mais variados problemas do dia-a-dia, além de ser 
+uma pessoa extremamente fácil de se ter na equipe. Me misturo fácil e sempre gosto de receber feedbacks, pois sei o quanto isso é importante para a minha evolução.
 
-Minha história começou no ano de 2020, quando me vi em um curso que detestava e que pra mim não tinha a possibilidade de crescimento. Foi então que comecei a estudar, por conta própria, programação, e assim conheci o mundo do Desenvolvimento Web. E desde então venho me aperfeiçoando nesse universo.
+Estou aberto para oportunidades na modalidade home office. 
 
-Atualmente, já estou atuando no mercado de trabalho como Desenvolvedor Front-end Júnior, utilizando ferramentas como React, TypeScript e JavaScript. Porém, estou me preparando, através dos estudos, para começar a atuar como desenvolvedor Fullstack e adicionar o NodeJs e conhecimentos sobre Back-end na minha bagagem enquanto desenvolvedor.
+Caso não seja exatamente a stack que voçê procura em um desenvolvedor, saiba que, com certeza eu posso aprender o que você precisa, afinal não é a primeira vez
+que preciso aprender algo novo ;)
 
-Além disso, me considero uma pessoa calma, tranquila e que se mistura fácil. Possuo facilidade em me comunicar e trabalhar em equipe. Sempre me comprometo a fazer bem feito e de tentar contribuir positivamente para o projeto.
-
-## Contact Me
+## Contato
 
  <br>  
   <div> 
@@ -28,7 +28,7 @@ Além disso, me considero uma pessoa calma, tranquila e que se mistura fácil. P
   </div>
 <br>
 
-## Resume
+## Resumo
 
 <div align="center">
   <a href="https://github.com/DevVictor19">
@@ -37,7 +37,7 @@ Além disso, me considero uma pessoa calma, tranquila e que se mistura fácil. P
 </div>
 <br>
 
-## Main Languages
+## Principais Stacks
 
 <div>
   <img 
