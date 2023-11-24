@@ -1,6 +1,6 @@
 ## Sobre
 
-ou um desenvolvedor backend dedicado, atualmente cursando o 5º semestre de Sistemas de Informação. Minha trajetória no universo de TI teve início em 2020, quando decidi migrar do curso de Direito para explorar minha paixão pela programação.
+Sou um desenvolvedor backend dedicado, atualmente cursando o 5º semestre de Sistemas de Informação. Minha trajetória no universo de TI teve início em 2020, quando decidi migrar do curso de Direito para explorar minha paixão pela programação.
 
 Ao longo desses anos, venho aprimorando minhas habilidades, concentrando-me especialmente no desenvolvimento de software. Atualmente, atuo como prestador de serviços para diversas empresas, onde tive a oportunidade de trabalhar em ambos os lados da aplicação.
 
@@ -11,10 +11,6 @@ Minha decisão de focar exclusivamente no backend reflete meu compromisso em me 
 Atualmente, estou aberto a oportunidades remotas ou híbridas em Salvador, BA, onde posso contribuir significativamente para projetos inovadores. Estou entusiasmado para integrar equipes dinâmicas e colaborar no desenvolvimento de soluções eficazes.
 
 Se você procura um desenvolvedor backend apaixonado por desafios e comprometido com a excelência técnica, estou ansioso para contribuir para o sucesso do seu projeto.
-
-Contato e gitHub
- - antoniovictor1604@gmail.com 
- - https://github.com/DevVictor19
 
 ## Contato
 
