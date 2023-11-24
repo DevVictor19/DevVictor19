@@ -1,16 +1,16 @@
 ## Sobre
 
-Desenvolvedor de software fullstack. Cursando o 4° Semestre de Sistemas de Informação.
+ou um desenvolvedor backend dedicado, atualmente cursando o 5º semestre de Sistemas de Informação. Minha trajetória no universo de TI teve início em 2020, quando decidi migrar do curso de Direito para explorar minha paixão pela programação.
 
-Minha história começou quando tranquei uma faculdade de Direito em 2020 e começei a estudar programação web por conta própria. Desde então venho me aperfeiçoando nesse universo e ficando cada vez mais empolgado em estudar os tópicos pertinentes da nossa área. Eu simplesmente amo a minha profissão.
+Ao longo desses anos, venho aprimorando minhas habilidades, concentrando-me especialmente no desenvolvimento de software. Atualmente, atuo como prestador de serviços para diversas empresas, onde tive a oportunidade de trabalhar em ambos os lados da aplicação.
 
-Atualmente estou ocupando posições tanto de desenvolvedor backend, como desenvolvedor frontend. Porém, meu foco principal é fazer uma transição total para o backend, afinal é a área que eu mais possuo afinidade. Estou trabalhando com ferramentas como: NodeJS, Express, NestJS, Docker, NextJS, PostgreSQL, MongoDB, dentre outras.
+No frontend, domino tecnologias como React, TypeScript e NextJS, proporcionando experiências de usuário envolventes e eficientes. No backend, utilizo o ExpressJS e tenho experiência sólida com bancos de dados relacionais, incluindo FirebirdSQL, PostgreSQL e SQLite.
 
-Porém, minhas habilidades não se restringem a isso. Possuo raciocínio lógico e analítico para resolver os mais variados problemas do dia-a-dia, além de ser uma pessoa extremamente fácil de se ter na equipe. Me misturo fácil e sempre gosto de receber feedbacks, pois sei o quanto isso é importante para a minha evolução.
+Minha decisão de focar exclusivamente no backend reflete meu compromisso em me especializar nessa área. Estou em busca de oportunidades desafiadoras que me permitam expandir ainda mais meu conhecimento e aplicar minhas habilidades de desenvolvimento.
 
-Estou aberto para oportunidades na modalidade home office.
+Atualmente, estou aberto a oportunidades remotas ou híbridas em Salvador, BA, onde posso contribuir significativamente para projetos inovadores. Estou entusiasmado para integrar equipes dinâmicas e colaborar no desenvolvimento de soluções eficazes.
 
-Caso não seja exatamente a stack que você procura em um desenvolvedor, saiba que, com certeza eu posso aprender o que você precisa, afinal não é a primeira vez que preciso aprender algo novo ;)
+Se você procura um desenvolvedor backend apaixonado por desafios e comprometido com a excelência técnica, estou ansioso para contribuir para o sucesso do seu projeto.
 
 Contato e gitHub
  - antoniovictor1604@gmail.com 
