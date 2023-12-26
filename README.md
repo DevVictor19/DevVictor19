@@ -79,7 +79,7 @@ Contato e gitHub
   <img 
     src="./assets/docker.svg" 
     alt="Antonio-docker" 
-    height="55" 
+    height="50" 
     width="60" 
     title="Docker"
   />
