@@ -4,18 +4,13 @@ Sou um desenvolvedor backend dedicado, atualmente cursando o 5º semestre de Sis
 
 Ao longo desses anos, venho aprimorando minhas habilidades, concentrando-me especialmente no desenvolvimento de software. Atualmente, atuo como prestador de serviços para diversas empresas, onde tive a oportunidade de trabalhar em ambos os lados da aplicação.
 
-No frontend, domino tecnologias como React, TypeScript e NextJS, proporcionando experiências de usuário envolventes e eficientes. No backend, utilizo o ExpressJS e NestJS. Além disso, tenho experiência sólida com bancos de dados relacionais, incluindo FirebirdSQL, PostgreSQL e SQLite.
+No backend, utilizo o ExpressJS e NestJS. Além disso, tenho experiência sólida com bancos de dados relacionais e não relacionais. No frontend, domino tecnologias como React, TypeScript e NextJS, proporcionando experiências de usuário envolventes e eficientes.
 
 Minha decisão de focar exclusivamente no backend reflete meu compromisso em me especializar nessa área. Estou em busca de oportunidades desafiadoras que me permitam expandir ainda mais meu conhecimento e aplicar minhas habilidades de desenvolvimento.
 
 Atualmente, estou aberto a oportunidades remotas ou híbridas em Salvador, BA, onde posso contribuir significativamente para projetos inovadores. Estou entusiasmado para integrar equipes dinâmicas e colaborar no desenvolvimento de soluções eficazes.
 
 Se você procura um desenvolvedor backend apaixonado por desafios e comprometido com a excelência técnica, estou ansioso para contribuir para o sucesso do seu projeto.
-
-Contato e gitHub
-
-- antoniovictor1604@gmail.com
-- https://github.com/DevVictor19
 
 ## Resumo
 
