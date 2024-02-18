@@ -1,16 +1,18 @@
 ## Sobre
+Desenvolvedor Fullstack com um ano de experiência profissional. 
 
-Sou um desenvolvedor backend dedicado, atualmente cursando o 5º semestre de Sistemas de Informação. Minha trajetória no universo de TI teve início em 2020, quando decidi migrar do curso de Direito para explorar minha paixão pela programação.
+Atualmente cursando bacharelado em Sistemas de Informação na UNINASSAU. 
 
-Ao longo desses anos, venho aprimorando minhas habilidades, concentrando-me especialmente no desenvolvimento de software. Atualmente, atuo como prestador de serviços para diversas empresas, onde tive a oportunidade de trabalhar em ambos os lados da aplicação.
+Possuo experiência no desenvolvimento de aplicações backend, assim como aplicações frontend. 
 
-No backend, utilizo NestJS, ExpressJS, TypeScript, Docker e Linux. Além disso, tenho experiência sólida com bancos de dados relacionais (SQL) e não relacionais (NoSQL). No frontend, domino tecnologias como React, TypeScript e NextJS, proporcionando experiências de usuário envolventes e eficientes.
+No momento atuo como desenvolvedor de sistemas como prestador de serviços para diversas empresas. 
 
-Minha decisão de focar exclusivamente no backend reflete meu compromisso em me especializar nessa área. Estou em busca de oportunidades desafiadoras que me permitam expandir ainda mais meu conhecimento e aplicar minhas habilidades de desenvolvimento.
+Em meio a estes serviços, tive a oportunidade de entregar, de forma autônoma, soluções que agregaram intrinsecamente no negócio dos meus clientes. 
 
-Atualmente, estou aberto a oportunidades remotas ou híbridas em Salvador, BA, onde posso contribuir significativamente para projetos inovadores. Estou entusiasmado para integrar equipes dinâmicas e colaborar no desenvolvimento de soluções eficazes.
+Nessas experiências, fui responsável por desenvolver ambas as partes da aplicação (frontend e backend), além de gerenciar o deploy.
 
-Se você procura um desenvolvedor backend apaixonado por desafios e comprometido com a excelência técnica, estou ansioso para contribuir para o sucesso do seu projeto.
+Tenho disponibilidade para vagas remotas, ou híbridas em Salvador BA.
+
 
 ## Resumo
 
