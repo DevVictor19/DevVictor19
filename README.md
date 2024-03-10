@@ -1,15 +1,15 @@
 ## Sobre
-Sou um desenvolvedor backend dedicado, atualmente cursando o 5º semestre de Sistemas de Informação. Minha trajetória no universo de TI teve início em 2020, quando decidi migrar do curso de Direito para explorar minha paixão pela programação.
+Sou um desenvolvedor fullstack dedicado, atualmente cursando o 5º semestre de Sistemas de Informação. Minha trajetória no universo de TI teve início em 2020, quando iniciei meus estudos de programação por conta própria.
 
-Ao longo desses anos, venho aprimorando minhas habilidades, concentrando-me especialmente no desenvolvimento de software. Atualmente, atuo como prestador de serviços para diversas empresas, onde tive a oportunidade de trabalhar em ambos os lados da aplicação.
+Ao longo desses anos, venho aprimorando minhas habilidades, concentrando-me especialmente no desenvolvimento de software. Meu principal objetivo é me tornar excelente engenheiro de software e me especializar na área de backend.
+
+Atualmente, atuo como prestador de serviços para diversas empresas, onde tive a oportunidade de trabalhar em ambos os lados da aplicação. 
 
 No backend, utilizo NestJS, ExpressJS, TypeScript, Docker e Linux. Além disso, tenho experiência sólida com bancos de dados relacionais (SQL) e não relacionais (NoSQL). No frontend, domino tecnologias como React, TypeScript e NextJS, proporcionando experiências de usuário envolventes e eficientes.
 
-Minha decisão de focar exclusivamente no backend reflete meu compromisso em me especializar nessa área. Estou em busca de oportunidades desafiadoras que me permitam expandir ainda mais meu conhecimento e aplicar minhas habilidades de desenvolvimento.
-
 Atualmente, estou aberto a oportunidades remotas ou híbridas em Salvador, BA, onde posso contribuir significativamente para projetos inovadores. Estou entusiasmado para integrar equipes dinâmicas e colaborar no desenvolvimento de soluções eficazes.
 
-Se você procura um desenvolvedor backend apaixonado por desafios e comprometido com a excelência técnica, estou ansioso para contribuir para o sucesso do seu projeto.
+Se você procura um desenvolvedor fullstack apaixonado por desafios e comprometido com a excelência técnica, estou ansioso para contribuir para o sucesso do seu projeto.
 
 Tecnologias que já trabalhei (Stack):
 - ReactJS
