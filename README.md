@@ -1,26 +1,27 @@
 ## Sobre
-Sou um desenvolvedor fullstack dedicado, atualmente cursando o 5º semestre de Sistemas de Informação. Minha trajetória no universo de TI teve início em 2020, quando iniciei meus estudos de programação por conta própria.
+Desenvolvedor Fullstack com foco em backend. Atualmente cursando o 5 semestre de Sistemas de Informação.
 
-Ao longo desses anos, venho aprimorando minhas habilidades, concentrando-me especialmente no desenvolvimento de software. Meu principal objetivo é me tornar excelente engenheiro de software e me especializar na área de backend.
+Atuei principalmente, em empresas, como desenvolvedor Front-end, onde tive a oportunidade de desenvolver aplicações com ótima experiência para plataformas web e mobile, utilizando NextJS e React Native. 
 
-Atualmente, atuo como prestador de serviços para diversas empresas, onde tive a oportunidade de trabalhar em ambos os lados da aplicação. 
+Posteriormente, mudei meu rumo para me especializar no backend, onde pude desenvolver API'S e sistemas no lado do servidor, utilizando o NodeJs, além de bancos relacionais e não relacionais. 
 
-No backend, utilizo NestJS, ExpressJS, TypeScript, Docker e Linux. Além disso, tenho experiência sólida com bancos de dados relacionais (SQL) e não relacionais (NoSQL). No frontend, domino tecnologias como React, TypeScript e NextJS, proporcionando experiências de usuário envolventes e eficientes.
+Também tenho conhecimento em boas práticas de desenvolvimento de software, como CI/CD, testes de software e arquitetura.
 
-Atualmente, estou aberto a oportunidades remotas ou híbridas em Salvador, BA, onde posso contribuir significativamente para projetos inovadores. Estou entusiasmado para integrar equipes dinâmicas e colaborar no desenvolvimento de soluções eficazes.
+Possuo experiência na modelagem e levantamento de requisitos do projeto, além de ter um ótimo raciocínio lógico para desenvolver as atividades de forma autônoma.
 
-Se você procura um desenvolvedor fullstack apaixonado por desafios e comprometido com a excelência técnica, estou ansioso para contribuir para o sucesso do seu projeto.
+Estou aberto para oportunidades como desenvolvedor backend ou fullstack. Aceito a modalidade PJ e tenho preferência pelo home office.
 
 Tecnologias que já trabalhei (Stack):
 - ReactJS
 - Material UI
 - Tailwind
-- Bootstrap 5
+- Bootstrap 
 - SASS
 - React Native 
 - JavaScript
 - TypeScript
 - Jest
+- NextJs
 - NodeJs
 - NestJs
 - ExpressJs
@@ -36,7 +37,7 @@ Tecnologias que possuo interesse:
 
 Contato e gitHub
  - antoniovictor1604@gmail.com 
- - https://github.com/DevVictor19S
+ - https://github.com/DevVictor19
 
 ## Resumo
 
