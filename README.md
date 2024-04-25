@@ -1,13 +1,13 @@
 ## Sobre
-Desenvolvedor Fullstack com foco em backend. Atualmente cursando o 5 semestre de Sistemas de Informação.
+Desenvolvedor de Software Fullstack com foco em backend. Atualmente cursando o 5 semestre de Sistemas de Informação.
 
-Atuei principalmente, em empresas, como desenvolvedor Front-end, onde tive a oportunidade de desenvolver aplicações com ótima experiência para plataformas web e mobile, utilizando NextJS e React Native. 
+Durante a minha experiência, atuei nos dois lados do desenvolvimento, tanto na criação de interfaces (frontend), quanto na criação de sistemas do lado do servidor (backend).
 
-Posteriormente, mudei meu rumo para me especializar no backend, onde pude desenvolver API'S e sistemas no lado do servidor, utilizando o NodeJs, além de bancos relacionais e não relacionais. 
+No frontend, entreguei aplicações de qualidade para os meus clientes, visando a boa experiência do usuário e de interface. Tive a oportunidade de criar aplicações web e mobile.
+
+Já no backend, trabalhei com os mais variados tipos de bancos de dados, relacionais e não relacionais, onde fui responsável por fazer a modelagem do banco e desenvolver API'S de alta performance, visando a arquitetura e a disponibilidade do serviço. 
 
 Também tenho conhecimento em boas práticas de desenvolvimento de software, como CI/CD, testes de software e arquitetura.
-
-Possuo experiência na modelagem e levantamento de requisitos do projeto, além de ter um ótimo raciocínio lógico para desenvolver as atividades de forma autônoma.
 
 Estou aberto para oportunidades como desenvolvedor backend ou fullstack. Aceito a modalidade PJ e tenho preferência pelo home office.
 
