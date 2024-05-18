@@ -1,23 +1,23 @@
-## Sobre
-Desenvolvedor de Software Fullstack com foco em backend. Atualmente cursando o 5 semestre de Sistemas de Informação.
+## About
+Fullstack Software Developer with a focus on backend. Currently studying the 5th semester of Information Systems.
 
-Durante a minha experiência, atuei nos dois lados do desenvolvimento, tanto na criação de interfaces (frontend), quanto na criação de sistemas do lado do servidor (backend).
+Throughout my experience, I've worked on both sides of development, creating interfaces (frontend) as well as server-side systems (backend).
 
-No frontend, entreguei aplicações de qualidade para os meus clientes, visando a boa experiência do usuário e de interface. Tive a oportunidade de criar aplicações web e mobile.
+On the frontend, I've delivered quality applications to my clients, focusing on user experience and interface design. I've had the opportunity to create web and mobile applications.
 
-Já no backend, trabalhei com os mais variados tipos de bancos de dados, relacionais e não relacionais, onde fui responsável por fazer a modelagem do banco e desenvolver API'S de alta performance, visando a arquitetura e a disponibilidade do serviço. 
+In backend development, I've worked with various types of databases, both relational and non-relational. I've been responsible for database modeling and developing high-performance APIs, focusing on architecture and service availability.
 
-Também tenho conhecimento em boas práticas de desenvolvimento de software, como CI/CD, testes de software e arquitetura.
+I also have knowledge in software development best practices such as CI/CD, software testing, and architecture.
 
-Estou aberto para oportunidades como desenvolvedor backend ou fullstack. Aceito a modalidade PJ e tenho preferência pelo home office.
+I'm open to opportunities as a backend or fullstack developer. I accept freelance contracts and prefer remote work.
 
-Tecnologias que já trabalhei (Stack):
+Technologies I've worked with (Stack):
 - ReactJS
 - Material UI
 - Tailwind
-- Bootstrap 
+- Bootstrap
 - SASS
-- React Native 
+- React Native
 - JavaScript
 - TypeScript
 - Jest
@@ -26,20 +26,20 @@ Tecnologias que já trabalhei (Stack):
 - NestJs
 - ExpressJs
 - MongoDB
-- PostgreSQL 
+- PostgreSQL
 - FirebirdSQL
 - Docker
 - Linux
 
-Tecnologias que possuo interesse:
+Technologies I'm interested in:
 - Go
 - Java
 
-Contato e gitHub
- - antoniovictor1604@gmail.com 
- - https://github.com/DevVictor19
+Contact and GitHub:
+- antoniovictor1604@gmail.com
+- GitHub: https://github.com/DevVictor19
 
-## Resumo
+## Resume
 
 <div align="center">
   <a href="https://github.com/DevVictor19">
@@ -48,7 +48,7 @@ Contato e gitHub
 </div>
 <br>
 
-## Stack Principal
+## Stack
 
 <div>
   <img 
@@ -133,7 +133,7 @@ Contato e gitHub
 </div>
 <br>
 
-## Interesses
+## Interests
 
 <div>
     <img 
@@ -145,7 +145,7 @@ Contato e gitHub
 </div>
 <br>
   
-## Contato
+## Contact
   <div> 
     <a href = "mailto:antoniovictor1604@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
