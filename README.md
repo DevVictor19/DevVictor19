@@ -9,34 +9,6 @@ Nowadays, my focus is on specializing in backend development, and I am continual
 
 I am open to opportunities as a backend developer, with a preference for remote work.
 
-Technologies I've worked with (Stack):
-- ReactJS
-- Material UI
-- Tailwind
-- Bootstrap
-- SASS
-- React Native
-- JavaScript
-- TypeScript
-- Jest
-- NextJs
-- NodeJs
-- NestJs
-- ExpressJs
-- MongoDB
-- PostgreSQL
-- FirebirdSQL
-- Docker
-- Linux
-
-Technologies I'm interested in:
-- Go
-- Java
-
-Contact and GitHub:
-- antoniovictor1604@gmail.com
-- GitHub: https://github.com/DevVictor19
-
 ## Resume
 
 <div align="center">
