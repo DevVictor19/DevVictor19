@@ -1,13 +1,17 @@
 ## About
-Backend Developer, currently pursuing a Bachelor's degree in Information Systems.
+Fullstack Software Developer with a focus on backend
 
-Throughout my experience as a software developer, I have worked on both frontend and backend development. 
+Currently in my 5th semester of studying Information Systems.
 
-I have primarily focused on developing full-stack web applications and REST APIs, using technologies from the JavaScript ecosystem (ReactJS, NextJS, NodeJS, ExpressJS, NestJS, among others), as well as various SQL and NoSQL databases.
+Throughout my experience, I have worked on both sides of development, creating interfaces (frontend) and server-side systems (backend).
 
-Nowadays, my focus is on specializing in backend development, and I am continually improving my skills and seeking new knowledge to achieve this goal.
+On the frontend, I have delivered quality applications for my clients, aiming for a good user experience and interface. I had the opportunity to create web and mobile applications.
 
-I am open to opportunities as a backend developer, with a preference for remote work.
+On the backend, I have worked with various types of databases, both relational and non-relational, where I was responsible for database modeling and developing high-performance APIs, focusing on architecture and service availability.
+
+I also have knowledge of best software development practices, such as CI/CD, software testing, and architecture.
+
+I am open to opportunities as a backend or fullstack developer. I accept contracting (PJ) and prefer remote work.
 
 ## Resume
 
