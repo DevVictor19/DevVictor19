@@ -1,17 +1,9 @@
 ## About
-Fullstack Software Developer with a focus on backend
+Software Developer and Information Systems student.
 
-Currently in my 5th semester of studying Information Systems.
+I work as a backend developer using NodeJS and its frameworks (NestJS, Fastify, Express, etc.) as my main technology. I use SQL databases (PostgreSQL, MySQL, and SQLite) and NoSQL databases (MongoDB and Redis). Additionally, I have knowledge in creating simple web interfaces using ReactJS (along with NextJS).
 
-Throughout my experience, I have worked on both sides of development, creating interfaces (frontend) and server-side systems (backend).
-
-On the frontend, I have delivered quality applications for my clients, aiming for a good user experience and interface. I had the opportunity to create web and mobile applications.
-
-On the backend, I have worked with various types of databases, both relational and non-relational, where I was responsible for database modeling and developing high-performance APIs, focusing on architecture and service availability.
-
-I also have knowledge of best software development practices, such as CI/CD, software testing, and architecture.
-
-I am open to opportunities as a backend or fullstack developer. I accept contracting (PJ) and prefer remote work.
+I have experience in creating high-availability APIs, architecture planning, payment gateway integration, configuring CI/CD pipelines, and setting up observability services.
 
 ## Resume
 
