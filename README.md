@@ -1,9 +1,17 @@
 ## About
-Software Developer and Information Systems student.
 
-I work as a backend developer using NodeJS and its frameworks (NestJS, Fastify, Express, etc.) as my main technology. I use SQL databases (PostgreSQL, MySQL, and SQLite) and NoSQL databases (MongoDB and Redis). Additionally, I have knowledge in creating simple web interfaces using ReactJS (along with NextJS).
+I am a software developer with a primary focus on backend development using NodeJS and its main frameworks (NestJS, Fastify, Express, etc.). 
 
-I have experience in creating high-availability APIs, architecture planning, payment gateway integration, configuring CI/CD pipelines, and setting up observability services.
+I have experience with SQL databases (PostgreSQL, MySQL, SQLite) and NoSQL databases (MongoDB, Redis). Additionally, I possess skills in creating simple web interfaces using ReactJS and NextJS.
+
+My expertise includes:
+- Developing high-availability APIs
+- Planning and defining software architecture
+- Integrating with payment gateways
+- Configuring and maintaining CI/CD pipelines
+- Implementing observability services
+
+Currently, I am completing a Bachelor's degree in Information Systems and have over a year and a half of experience in software development, with a focus on applying agile methodologies like Scrum.
 
 ## Resume
 
