@@ -1,17 +1,10 @@
 ## About
 
-I am a software developer with a primary focus on backend development using NodeJS and its main frameworks (NestJS, Fastify, Express, etc.). 
+Software developer with 1 year and 6 months of experience, specializing in backend development with a focus on Node.js, Java, Spring Boot, NestJS, and TypeScript. I have strong knowledge of relational databases (PostgreSQL, FirebirdSQL, MySQL) and non-relational databases (MongoDB), along with experience in agile methodologies such as Scrum. I work on creating secure and scalable RESTful APIs, including the implementation of authentication, exception handling, and complex service integrations.
 
-I have experience with SQL databases (PostgreSQL, MySQL, SQLite) and NoSQL databases (MongoDB, Redis). Additionally, I possess skills in creating simple web interfaces using ReactJS and NextJS.
+My expertise includes configuring development and production environments in Ubuntu and optimizing queries using TypeORM, prioritizing best coding practices and performance.
 
-My expertise includes:
-- Developing high-availability APIs
-- Planning and defining software architecture
-- Integrating with payment gateways
-- Configuring and maintaining CI/CD pipelines
-- Implementing observability services
-
-Currently, I am completing a Bachelor's degree in Information Systems and have over a year and a half of experience in software development, with a focus on applying agile methodologies like Scrum.
+Currently pursuing a Bachelor's degree in Information Systems and holding advanced English skills (C1), I stay updated with the best development practices and continuously strive to enhance my communication to ensure the success of the projects I work on.
 
 ## Resume
 
