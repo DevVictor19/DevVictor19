@@ -11,7 +11,7 @@ Skills:
 - Experience with cloud computing and AWS environment configuration
 - Proficient in agile methodologies (Scrum, Kanban) for project planning and execution
 
-Currently completing a Bachelor's degree in Information Systems with over a year and a half of experience in software development.
+Currently completing a Bachelor's degree in Information Systems.
 
 ## Resume
 
