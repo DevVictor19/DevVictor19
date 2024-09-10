@@ -1,17 +1,13 @@
 ## About
 
-Software developer focused on backend development, specialized in creating scalable APIs and maintaining robust systems. Experienced in using Node.js and its main frameworks (NestJS, Fastify, Express), and more recently, Java with Spring Boot 3. Strong background in relational databases (PostgreSQL, MySQL, SQLite) and non-relational databases (MongoDB, Redis). Additional knowledge in frontend development with ReactJS and NextJS.
+Software Developer since 2021, working on web development projects using technologies like NodeJS, Java, and ReactJS.
 
-Skills:
-- Development of high availability and scalable APIs
-- Microservices-oriented software architecture
-- Integration with payment gateways
-- Configuration and maintenance of CI/CD pipelines
-- Implementation of observability and monitoring services
-- Experience with cloud computing and AWS environment configuration
-- Proficient in agile methodologies (Scrum, Kanban) for project planning and execution
+Throughout my experience as a software developer, I have been part of significant products, such as an online shopping platform with virtual cards and a distance learning platform. I have worked on both the frontend and backend, although my current focus is on specializing as a backend software engineer.
 
-Currently completing a Bachelor's degree in Information Systems.
+In my free time, I enjoy studying and staying updated on topics related to software development. I also like to create content for the community, mainly on LinkedIn, where I am most active.
+
+If you are interested in my services, please contact me via email: antoniovictor1604@gmail.com.
+
 
 ## Resume
 
