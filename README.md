@@ -1,6 +1,6 @@
 ## About
 
-Software Developer since 2021, working on web development projects using technologies like NodeJS, Java, and ReactJS.
+Software Developer since 2023, working on web development projects using technologies like NodeJS, Java, and ReactJS.
 
 Throughout my experience as a software developer, I have been part of significant products, such as an online shopping platform with virtual cards and a distance learning platform. I have worked on both the frontend and backend, although my current focus is on specializing as a backend software engineer.
 
