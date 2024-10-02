@@ -22,17 +22,23 @@ If you are interested in my services, please contact me via email: antoniovictor
 
 <div>
   <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Antonio-Js" 
-    height="50" 
-    width="60"  
-    title="JavaScript"
-  />
+      src="./assets/java.svg" 
+      alt="Java logo" 
+      width="50" 
+      title="Java"
+    />
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
     alt="Antonio-ts" 
     height="50" 
     width="60"  
     title="TypeScript"
+  />
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Antonio-Js" 
+    height="50" 
+    width="60"  
+    title="JavaScript"
   />
    <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
@@ -100,18 +106,6 @@ If you are interested in my services, please contact me via email: antoniovictor
     width="50"  
     title="React"
   />
-</div>
-<br>
-
-## Interests
-
-<div>
-    <img 
-      src="./assets/java.svg" 
-      alt="Java logo" 
-      width="50" 
-      title="Java"
-    />
 </div>
 <br>
   
