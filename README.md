@@ -8,6 +8,21 @@ In my free time, I enjoy studying and staying updated on topics related to softw
 
 If you are interested in my services, please contact me via email: antoniovictor1604@gmail.com.
 
+## Stack: 
+- NodeJs
+- Typescript
+- Java
+- Spring Boot
+- ReactJs
+- NextJs
+- SQL
+- NoSQL
+- PostgreSQL
+- MySQL
+- MongoDB
+- AWS
+- Vercel
+
 
 ## Resume
 
