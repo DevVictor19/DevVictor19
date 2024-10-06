@@ -1,12 +1,12 @@
 ## About
 
-Software Developer since 2023, working on web development projects using technologies like NodeJS, Java, and ReactJS.
+Software Developer since 2023, working on web development projects using technologies such as NodeJS, NestJS, Java, Spring Boot, ReactJS, React Native, and NextJS.
 
-Throughout my experience as a software developer, I have been part of significant products, such as an online shopping platform with virtual cards and a distance learning platform. I have worked on both the frontend and backend, although my current focus is on specializing as a backend software engineer.
+During my experience as a software developer, I had the opportunity to contribute to large-scale products like an online shopping platform with virtual cards and a distance learning platform. I’ve worked on both frontend and backend, although my current focus is to specialize in backend development as a software engineer.
 
-In my free time, I enjoy studying and staying updated on topics related to software development. I also like to create content for the community, mainly on LinkedIn, where I am most active.
+In my free time, I enjoy studying and keeping up-to-date with development-related topics. I also like to create content for the community, mainly on LinkedIn, where I am most active.
 
-If you are interested in my services, please contact me via email: antoniovictor1604@gmail.com.
+If you’re interested in my services, feel free to reach out via email at antoniovictor1604@gmail.com.
 
 ## Stack: 
 - NodeJs
