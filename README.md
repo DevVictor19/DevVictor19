@@ -10,17 +10,17 @@ If you’re interested in my services, feel free to reach out via email at anton
 
 ## Stack: 
 - NodeJs
+- NestJs
+- ExpressJs
 - Typescript
-- Java
-- Spring Boot
 - ReactJs
+- React Native
 - NextJs
 - SQL
 - NoSQL
 - PostgreSQL
 - MySQL
 - MongoDB
-- AWS
 - Vercel
 
 
