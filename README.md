@@ -1,6 +1,6 @@
 ## About
 
-Software Developer since 2023, working on web development projects using technologies such as NodeJS, NestJS, ReactJS, React Native, and NextJS.
+Software Developer since 2023, working on web development projects using technologies such as NodeJS, NestJS, ReactJS and NextJS.
 
 During my experience as a software developer, I had the opportunity to contribute to large-scale products like an online shopping platform with virtual cards and a distance learning platform. I’ve worked on both frontend and backend, although my current focus is to specialize in backend development as a software engineer.
 
@@ -14,7 +14,6 @@ If you’re interested in my services, feel free to reach out via email at anton
 - ExpressJs
 - Typescript
 - ReactJs
-- React Native
 - NextJs
 - SQL
 - NoSQL
