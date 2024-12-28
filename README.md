@@ -6,6 +6,8 @@ Throughout my career, I have delivered scalable APIs, integrated complex systems
 
 Beyond hands-on development, I am passionate about continuous learning and sharing technical content with the tech community. On LinkedIn, where I am most active, I frequently share insights and knowledge about the software development field.
 
+If you're looking for a professional committed to quality, scalability, and innovation, feel free to reach out.
+
 ## Technical Skills:
 
 ### Backend: Node.js, NestJS, ExpressJS
@@ -19,9 +21,6 @@ Beyond hands-on development, I am passionate about continuous learning and shari
 ### Infrastructure: Docker, AWS, Vercel
 
 ### Other Skills: Clean Architecture, Agile Methodologies (Scrum/Kanban)
-
-
-If you're looking for a professional committed to quality, scalability, and innovation, feel free to reach out.
 
 ## Resume
 
