@@ -1,27 +1,27 @@
 ## About
 
-Software Developer since 2023, working on web development projects using technologies such as NodeJS, NestJS, ReactJS and NextJS.
+Software developer since 2023, with experience in building high-impact and large-scale web development projects. I have contributed to the development of robust products, including an online shopping platform with virtual card integration and a distance learning platform. My expertise spans both frontend and backend development, with a growing focus on backend architecture and scalable solutions.
 
-During my experience as a software developer, I had the opportunity to contribute to large-scale products like an online shopping platform with virtual cards and a distance learning platform. I’ve worked on both frontend and backend, although my current focus is to specialize in backend development.
+Throughout my career, I have delivered scalable APIs, integrated complex systems, and applied modern development practices such as Clean Architecture and Agile methodologies. I have strong skills in both relational and non-relational databases and advanced proficiency in modern frameworks like NestJS and ExpressJS.
 
-In my free time, I enjoy studying and keeping up-to-date with development-related topics. I also like to create content for the community, mainly on LinkedIn, where I am most active.
+Beyond hands-on development, I am passionate about continuous learning and sharing technical content with the tech community. On LinkedIn, where I am most active, I frequently share insights and knowledge about the software development field.
 
-If you’re interested in my services, feel free to reach out via email at antoniovictor1604@gmail.com.
+## Technical Skills:
 
-## Stack: 
-- NodeJs
-- NestJs
-- ExpressJs
-- Typescript
-- ReactJs
-- NextJs
-- SQL
-- NoSQL
-- PostgreSQL
-- MySQL
-- MongoDB
-- Vercel
+### Backend: Node.js, NestJS, ExpressJS
 
+### Frontend: ReactJS, NextJS, TailwindCSS
+
+### Languages: TypeScript, JavaScript
+
+### Databases: PostgreSQL, MySQL, MongoDB
+
+### Infrastructure: Docker, AWS, Vercel
+
+### Other Skills: Clean Architecture, Agile Methodologies (Scrum/Kanban)
+
+
+If you're looking for a professional committed to quality, scalability, and innovation, feel free to reach out.
 
 ## Resume
 
