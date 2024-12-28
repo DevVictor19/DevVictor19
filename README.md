@@ -8,7 +8,7 @@ Beyond hands-on development, I am passionate about continuous learning and shari
 
 If you're looking for a professional committed to quality, scalability, and innovation, feel free to reach out.
 
-## Technical Skills:
+## Technical Skills
 
 ### Backend: Node.js, NestJS, ExpressJS
 
