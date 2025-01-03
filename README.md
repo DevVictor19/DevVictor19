@@ -2,7 +2,7 @@
 
 Software developer since 2023, with experience in building high-impact and large-scale web development projects. I have contributed to the development of robust products, including an online shopping platform with virtual card integration and a distance learning platform. My expertise spans both frontend and backend development, with a growing focus on backend architecture and scalable solutions.
 
-Throughout my career, I have delivered scalable APIs, integrated complex systems, and applied modern development practices such as Clean Architecture and Agile methodologies. I have strong skills in both relational and non-relational databases and advanced proficiency in modern frameworks like NestJS and ExpressJS.
+Throughout my career, I have delivered scalable APIs, integrated complex systems, and applied modern development practices such as Clean Architecture and Agile methodologies. I have strong skills in both relational and non-relational databases and advanced proficiency in modern frameworks like NestJS and NextJS.
 
 Beyond hands-on development, I am passionate about continuous learning and sharing technical content with the tech community. On LinkedIn, where I am most active, I frequently share insights and knowledge about the software development field.
 
