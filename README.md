@@ -1,10 +1,10 @@
 ## About
 
-Desenvolvedor de software desde 2023, com experiência na criação de aplicações escaláveis e arquiteturas robustas, com especialidade no backend. Atualmente, atuo no desenvolvimento de soluções com IA generativa na Caramelo AI, utilizando Node.js, Go e LangChain para construção de chatbots inteligentes e automações.
+Software developer since 2023, with experience in building scalable applications and robust architectures, specializing in backend development. Currently, I work on generative AI solutions at Caramelo AI, using Node.js, Go, and LangChain to develop intelligent chatbots and automation systems.
 
-Anteriormente, trabalhei no Inaesp, onde desenvolvi o backend completo de uma plataforma de ensino à distância utilizada por mais de 40 mil alunos, além de atuar no frontend da solução. Também contribui para a criação de uma plataforma de compras online na SmartSE Sistemas.
+Previously, I worked at Inaesp, where I developed the complete backend for a distance learning platform used by over 40,000 students, in addition to contributing to its frontend. I also helped create an online shopping platform at SmartSE Sistemas.
 
-Possuo expertise em Node.js, NestJS, ReactJS, NextJS, PostgreSQL, MongoDB, Docker e AWS, além de experiência com Clean Architecture e metodologias ágeis. Sou apaixonado por aprendizado contínuo e produção de conteúdo técnico, compartilhando insights sobre desenvolvimento no LinkedIn.
+I have expertise in Node.js, NestJS, ReactJS, NextJS, PostgreSQL, MongoDB, Docker, and AWS, along with experience in Clean Architecture and Agile methodologies. I'm passionate about continuous learning and technical content creation, sharing insights about development on LinkedIn.
 
 ## Resume
 
