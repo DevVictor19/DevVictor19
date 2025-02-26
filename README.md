@@ -1,26 +1,10 @@
 ## About
 
-Software developer since 2023, with experience in building high-impact and large-scale web development projects. I have contributed to the development of robust products, including an online shopping platform with virtual card integration and a distance learning platform. My expertise spans both frontend and backend development, with a growing focus on backend architecture and scalable solutions.
+Desenvolvedor de software desde 2023, com experiência na criação de aplicações escaláveis e arquiteturas robustas, com especialidade no backend. Atualmente, atuo no desenvolvimento de soluções com IA generativa na Caramelo AI, utilizando Node.js, Go e LangChain para construção de chatbots inteligentes e automações.
 
-Throughout my career, I have delivered scalable APIs, integrated complex systems, and applied modern development practices such as Clean Architecture and Agile methodologies. I have strong skills in both relational and non-relational databases and advanced proficiency in modern frameworks like NestJS and NextJS.
+Anteriormente, trabalhei no Inaesp, onde desenvolvi o backend completo de uma plataforma de ensino à distância utilizada por mais de 40 mil alunos, além de atuar no frontend da solução. Também contribui para a criação de uma plataforma de compras online na SmartSE Sistemas.
 
-Beyond hands-on development, I am passionate about continuous learning and sharing technical content with the tech community. On LinkedIn, where I am most active, I frequently share insights and knowledge about the software development field.
-
-If you're looking for a professional committed to quality, scalability, and innovation, feel free to reach out.
-
-## Technical Skills
-
-### Backend: Node.js, NestJS, ExpressJS
-
-### Frontend: ReactJS, NextJS, TailwindCSS
-
-### Languages: TypeScript, JavaScript
-
-### Databases: PostgreSQL, MySQL, MongoDB
-
-### Infrastructure: Docker, AWS, Vercel
-
-### Other Skills: Clean Architecture, Agile Methodologies (Scrum/Kanban)
+Possuo expertise em Node.js, NestJS, ReactJS, NextJS, PostgreSQL, MongoDB, Docker e AWS, além de experiência com Clean Architecture e metodologias ágeis. Sou apaixonado por aprendizado contínuo e produção de conteúdo técnico, compartilhando insights sobre desenvolvimento no LinkedIn.
 
 ## Resume
 
