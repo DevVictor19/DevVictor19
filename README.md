@@ -1,6 +1,8 @@
 ## About
 
-Software developer since 2023, with experience in building scalable applications and robust architectures, specializing in backend development. Currently, I work on generative AI solutions at Caramelo AI, using Node.js, Go, and LangChain to develop intelligent chatbots and automation systems.
+Software developer since 2023, with experience in building scalable applications and robust architectures, specializing in backend development.
+
+Currently, I work on generative AI solutions at Caramelo AI, using Node.js, Go, and LangChain to develop intelligent chatbots and automation systems.
 
 Previously, I worked at Inaesp, where I developed the complete backend for a distance learning platform used by over 40,000 students, in addition to contributing to its frontend. I also helped create an online shopping platform at SmartSE Sistemas.
 
