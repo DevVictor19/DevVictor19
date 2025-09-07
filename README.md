@@ -1,12 +1,12 @@
 ## About
 
-Software developer since 2023, with experience in building scalable applications and robust architectures, specializing in backend development.
+Backend software developer, specialized in building scalable and robust applications using languages such as Golang and Node.js.
 
-Currently, I work on generative AI solutions at Caramelo AI, using Node.js, Go, and LangChain to develop intelligent chatbots and automation systems.
+Throughout my career, I have worked on relevant projects, such as an e-learning platform that supported over 10,000 concurrent users. I also contributed to an AI startup, where I built AI agents for customer support and automation.
 
-Previously, I worked at Inaesp, where I developed the complete backend for a distance learning platform used by over 40,000 students, in addition to contributing to its frontend. I also helped create an online shopping platform at SmartSE Sistemas.
+My core skills include TypeScript, Node.js, NestJS, Golang, Docker, LangChain, LangGraph, RabbitMQ, Kafka, MongoDB, PostgreSQL, MySQL, and Redis. I also have experience developing LLM-powered applications, designing knowledge processing pipelines (RAG), and working with vector databases such as Qdrant.
 
-I have expertise in TypeScript, Node.js, Nest.js, Go and Docker, along with experience in Clean Architecture and Agile methodologies. I'm passionate about continuous learning and technical content creation, sharing insights about development on LinkedIn.
+I am passionate about continuous learning and technical content creation, sharing insights on software development on LinkedIn.
 
 ## Resume
 
