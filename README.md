@@ -1,12 +1,12 @@
 ## About
 
-Backend software developer, specialized in building scalable and robust applications using languages such as Golang and Node.js.
+Software Developer, specialized in building scalable applications and robust architectures.
 
-Throughout my career, I have worked on relevant projects, such as an e-learning platform that supported over 10,000 concurrent users. I also contributed to an AI startup, where I built AI agents for customer support and automation.
+Throughout my career, I have developed high-impact projects, including an e-learning platform capable of supporting more than 10,000 concurrent users. I also worked at an artificial intelligence startup, where I was responsible for creating AI agents for customer service and process automation.
 
-My core skills include TypeScript, Node.js, NestJS, Golang, Docker, LangChain, LangGraph, RabbitMQ, Kafka, MongoDB, PostgreSQL, MySQL, and Redis. I also have experience developing LLM-powered applications, designing knowledge processing pipelines (RAG), and working with vector databases such as Qdrant.
+My core skills include TypeScript, Node.js, NestJS, Golang, Docker, LangChain, LangGraph, RabbitMQ, Kafka, MongoDB, PostgreSQL, MySQL, and Redis. I also have experience in developing solutions with LLMs, implementing retrieval-augmented generation (RAG) pipelines, and leveraging vector databases such as Qdrant.
 
-I am passionate about continuous learning and technical content creation, sharing insights on software development on LinkedIn.
+I am deeply interested in continuous learning and technical knowledge sharing, regularly publishing insights about software development on LinkedIn.
 
 ## Resume
 
