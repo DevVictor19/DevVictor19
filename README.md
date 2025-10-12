@@ -1,12 +1,14 @@
 ## About
 
-Software Developer, specialized in building scalable applications and robust architectures.
+Software Developer specialized in building scalable applications and robust architectures.
 
-Throughout my career, I have developed high-impact projects, including an e-learning platform capable of supporting more than 10,000 concurrent users. I also worked at an artificial intelligence startup, where I was responsible for creating AI agents for customer service and process automation.
+Throughout my career, I have developed high-impact projects, including an e-learning platform capable of supporting over 10,000 concurrent users. I also worked at an artificial intelligence startup, where I was responsible for developing AI agents for customer service and process automation.
 
 My core skills include TypeScript, Node.js, NestJS, Golang, Docker, LangChain, LangGraph, RabbitMQ, Kafka, MongoDB, PostgreSQL, MySQL, and Redis. I also have experience in developing solutions with LLMs, implementing retrieval-augmented generation (RAG) pipelines, and leveraging vector databases such as Qdrant.
 
-I am deeply interested in continuous learning and technical knowledge sharing, regularly publishing insights about software development on LinkedIn.
+In addition, I have experience in designing systems using Clean Architecture and Microservices Architecture, ensuring high cohesion, low coupling, and ease of maintenance in large-scale applications.
+
+I am passionate about continuous learning and technical knowledge sharing, regularly publishing insights about software development on LinkedIn.
 
 ## Resume
 
