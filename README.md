@@ -1,14 +1,12 @@
 ## About
 
-Software Developer specialized in building scalable applications and robust architectures.
+Backend Software Engineer specialized in building scalable applications, robust architectures, and high-performance distributed systems.
 
-Throughout my career, I have developed high-impact projects, including an e-learning platform capable of supporting over 10,000 concurrent users. I also worked at an artificial intelligence startup, where I was responsible for developing AI agents for customer service and process automation.
+Throughout my career, I have worked on large-scale projects, including the development of an e-learning platform used by over 40,000 users, the creation of generative AI solutions—such as intelligent chatbots and AI agents for process automation—and the development of product-oriented digital platforms, collaborating with agile teams to deliver high-impact solutions.
 
-My core skills include TypeScript, Node.js, NestJS, Golang, Docker, LangChain, LangGraph, RabbitMQ, Kafka, MongoDB, PostgreSQL, MySQL, and Redis. I also have experience in developing solutions with LLMs, implementing retrieval-augmented generation (RAG) pipelines, and leveraging vector databases such as Qdrant.
+I have solid experience with TypeScript, Node.js, NestJS, and Golang, as well as infrastructure and data technologies such as Docker, RabbitMQ, Kafka, PostgreSQL, MySQL, MongoDB, and Redis. I also work hands-on with LLM-based solutions, including Retrieval-Augmented Generation (RAG), embeddings, and integration with vector databases such as Qdrant.
 
-In addition, I have experience in designing systems using Clean Architecture and Microservices Architecture, ensuring high cohesion, low coupling, and ease of maintenance in large-scale applications.
-
-I am passionate about continuous learning and technical knowledge sharing, regularly publishing insights about software development on LinkedIn.
+I have a strong background in Clean Architecture and Microservices Architecture, prioritizing high cohesion, low coupling, scalability, and maintainability. I am driven by continuous learning and regularly share technical content about software development and architecture on LinkedIn.
 
 ## Resume
 
