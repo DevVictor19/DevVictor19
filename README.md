@@ -6,7 +6,9 @@ Throughout my career, I have worked on large-scale projects, including the devel
 
 I have solid experience with TypeScript, Node.js, NestJS, and Golang, as well as infrastructure and data technologies such as Docker, RabbitMQ, Kafka, PostgreSQL, MySQL, MongoDB, and Redis. I also work hands-on with LLM-based solutions, including Retrieval-Augmented Generation (RAG), embeddings, and integration with vector databases such as Qdrant.
 
-I have a strong background in Clean Architecture and Microservices Architecture, prioritizing high cohesion, low coupling, scalability, and maintainability. I am driven by continuous learning and regularly share technical content about software development and architecture on LinkedIn.
+I have a strong background in Clean Architecture and Microservices Architecture, prioritizing high cohesion, low coupling, scalability, and maintainability. 
+
+I am driven by continuous learning and regularly share technical content about software development and architecture on LinkedIn.
 
 ## Resume
 
