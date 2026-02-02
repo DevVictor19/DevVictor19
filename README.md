@@ -4,7 +4,9 @@ Backend Software Engineer specialized in building scalable applications, robust 
 
 Throughout my career, I have worked on large-scale projects, including the development of an e-learning platform used by over 10,000 users, the creation of generative AI solutions—such as intelligent chatbots and AI agents for process automation—and the development of product-oriented digital platforms, collaborating with agile teams to deliver high-impact solutions.
 
-I have solid experience with TypeScript, Node.js, NestJS, and Golang, as well as infrastructure and data technologies such as Docker, RabbitMQ, Kafka, PostgreSQL, MySQL, MongoDB, and Redis. I also work hands-on with LLM-based solutions, including Retrieval-Augmented Generation (RAG), embeddings, and integration with vector databases such as Qdrant.
+I have solid experience with TypeScript, Node.js, NestJS, and Golang, as well as infrastructure and data technologies such as Docker, RabbitMQ, Kafka, PostgreSQL, MySQL, MongoDB, and Redis. 
+
+I also work hands-on with LLM-based solutions, including Retrieval-Augmented Generation (RAG), embeddings, and integration with vector databases such as Qdrant.
 
 I have a strong background in Clean Architecture and Microservices Architecture, prioritizing high cohesion, low coupling, scalability, and maintainability. 
 
