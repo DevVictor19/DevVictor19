@@ -16,8 +16,8 @@ I am driven by continuous learning and regularly share technical content about s
 
 <div align="center">
   <a href="https://github.com/DevVictor19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevVictor19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevVictor19&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-three-topaz-56.vercel.app/api?username=DevVictor19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-three-topaz-56.vercel.app/api/top-langs/?username=DevVictor19&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
   
