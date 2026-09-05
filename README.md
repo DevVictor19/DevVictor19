@@ -1,16 +1,17 @@
 ## About
+Backend Software Engineer open to remote opportunities across LATAM, focused on building scalable applications, robust architectures, and high-performance distributed systems.
 
-Backend Software Engineer specialized in building scalable applications, robust architectures, and high-performance distributed systems.
+I have experience working on large-scale digital products, including an e-learning platform, AI-powered applications such as intelligent chatbots and AI agents for process automation, and product-oriented platforms developed in collaboration with agile engineering teams.
 
-Throughout my career, I have worked on large-scale projects, including the development of an e-learning platform used by over 10,000 users, the creation of generative AI solutions—such as intelligent chatbots and AI agents for process automation—and the development of product-oriented digital platforms, collaborating with agile teams to deliver high-impact solutions.
+My core stack includes TypeScript, Node.js, NestJS, and Golang, with hands-on experience in AWS, Docker, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, and Kafka.
 
-I have solid experience with TypeScript, Node.js, NestJS, and Golang, as well as infrastructure and data technologies such as Docker, RabbitMQ, Kafka, PostgreSQL, MySQL, MongoDB, and Redis. 
+I also have frontend development experience with React.js and Next.js, allowing me to collaborate effectively across the stack and understand the end-to-end development of digital products, while maintaining a strong focus on backend engineering.
 
-I also work hands-on with LLM-based solutions, including Retrieval-Augmented Generation (RAG), embeddings, and integration with vector databases such as Qdrant.
+I also build applications powered by Large Language Models (LLMs), with practical experience in RAG (Retrieval-Augmented Generation), embeddings, vector databases, Qdrant, LangChain, and LangGraph.
 
-I have a strong background in Clean Architecture and Microservices Architecture, prioritizing high cohesion, low coupling, scalability, and maintainability. 
+From an architecture perspective, I work with Clean Architecture, Microservices, distributed systems, event-driven architectures, and asynchronous processing, with a strong focus on scalability, reliability, maintainability, and low coupling.
 
-I am driven by continuous learning and regularly share technical content about software development and architecture on LinkedIn.
+I'm continuously learning and regularly sharing technical content about software engineering, backend development, cloud architecture, distributed systems, and AI here on LinkedIn.
 
 ## Resume
 
