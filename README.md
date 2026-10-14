@@ -1,17 +1,17 @@
 ## About
-Backend Software Engineer open to remote opportunities across LATAM, focused on building scalable applications, robust architectures, and high-performance distributed systems.
+Backend Software Engineer specializing in scalable applications, microservices, distributed systems, and AI-powered solutions, with experience in technical leadership and software architecture.
 
-I have experience working on large-scale digital products, including an e-learning platform, AI-powered applications such as intelligent chatbots and AI agents for process automation, and product-oriented platforms developed in collaboration with agile engineering teams.
+Technologies and Tools:
 
-My core stack includes TypeScript, Node.js, NestJS, and Golang, with hands-on experience in AWS, Docker, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, and Kafka.
+- Languages & Backend: TypeScript, JavaScript, Go (Golang), Node.js, NestJS
+- Cloud & DevOps: AWS, Docker, Kubernetes, ArgoCD
+- Databases & Messaging: PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, Kafka
+- AI & LLMs: RAG, Embeddings, Vector Databases, Qdrant, LangChain, LangGraph, AI Agents
+- Architecture & APIs: Clean Architecture, Microservices, Event-Driven Architecture, REST APIs, Asynchronous Processing
+- Frontend: React.js, Next.js
+- Engineering Practices: Technical Leadership, Code Review, Unit Testing, Agile Methodologies
 
-I also have frontend development experience with React.js and Next.js, allowing me to collaborate effectively across the stack and understand the end-to-end development of digital products, while maintaining a strong focus on backend engineering.
-
-I also build applications powered by Large Language Models (LLMs), with practical experience in RAG (Retrieval-Augmented Generation), embeddings, vector databases, Qdrant, LangChain, and LangGraph.
-
-From an architecture perspective, I work with Clean Architecture, Microservices, distributed systems, event-driven architectures, and asynchronous processing, with a strong focus on scalability, reliability, maintainability, and low coupling.
-
-I'm continuously learning and regularly sharing technical content about software engineering, backend development, cloud architecture, distributed systems, and AI here on LinkedIn.
+Focused on building reliable, maintainable, and high-performance backend systems, optimizing APIs and databases, and delivering scalable digital products.
 
 ## Resume
 
