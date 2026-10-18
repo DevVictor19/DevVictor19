@@ -1,17 +1,16 @@
 ## About
-Backend Software Engineer specializing in scalable applications, microservices, distributed systems, and AI-powered solutions, with experience in technical leadership and software architecture.
+Backend Software Engineer specializing in the development of scalable applications, microservices, distributed systems, and AI-powered solutions.
 
 Technologies and Tools:
-
-- Languages & Backend: TypeScript, JavaScript, Go (Golang), Node.js, NestJS
-- Cloud & DevOps: AWS, Docker, Kubernetes, ArgoCD
-- Databases & Messaging: PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, Kafka
-- AI & LLMs: RAG, Embeddings, Vector Databases, Qdrant, LangChain, LangGraph, AI Agents
-- Architecture & APIs: Clean Architecture, Microservices, Event-Driven Architecture, REST APIs, Asynchronous Processing
+- Languages and Backend: TypeScript, JavaScript, Go (Golang), Node.js, NestJS
+- Cloud and DevOps: AWS, Docker, Kubernetes, ArgoCD, GitHub Actions
+- Databases and Messaging: PostgreSQL, MySQL, MongoDB, Redis, BullMQ, RabbitMQ, Kafka
+- AI and LLMs: RAG, Embeddings, Vector Databases, Qdrant, LangChain, LangGraph, AI Agents
+- Architecture and APIs: Clean Architecture, Microservices, Event-Driven Architecture (EDA), REST APIs
 - Frontend: React.js, Next.js
-- Engineering Practices: Technical Leadership, Code Review, Unit Testing, Agile Methodologies
+- Engineering Practices: Code Reviews, Automated Testing, Agile Methodologies
 
-Focused on building reliable, maintainable, and high-performance backend systems, optimizing APIs and databases, and delivering scalable digital products.
+Focused on building reliable, scalable, and high-performance backend systems, optimizing APIs and databases, and developing robust, maintainable digital products.
 
 ## Resume
 
